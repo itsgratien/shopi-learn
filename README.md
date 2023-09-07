@@ -1,2 +1,3 @@
-# shopify-levelup
-shopify-levelup
+# shopilearn
+Shopify levelup - learning shopify basics
+
